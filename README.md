@@ -25,6 +25,6 @@ Para criação do arquivo linker foi necessário a configuração dos seguintes 
     
 ## Makefile
   
-Este arquivo foi criado para automatização do processo de compilação, nele definimos váriaveis e regras de compilação, incluindo a parte de adicionar o linker na compilação.
+Este arquivo foi criado para automatização do processo de compilação, nele definimos variáveis e regras de compilação, incluindo a parte de adicionar o linker na compilação.
   
  
